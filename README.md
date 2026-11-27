@@ -9,5 +9,6 @@ NAS 发布每个项目的最新清单，并把相同内容同步到本仓库。�
 | 神仙面板网页 | [/go/shenxian-panel-web/web](https://domains.52nm.de:5443/go/shenxian-panel-web/web) | [shenxian-panel-web.json](manifests/shenxian-panel-web.json) |
 | Shell 管理平台 | [/go/shell/workbench](https://domains.52nm.de:5443/go/shell/workbench) | [shell.json](manifests/shell.json) |
 | 吾爱云 | [/v1/wuaiyun.json](https://domains.52nm.de:5443/v1/wuaiyun.json) | [wuaiyun.json](manifests/wuaiyun.json) |
+| 吾爱云客户端（API、订阅、下载） | [/v1/wuaiyun-client.json](https://domains.52nm.de:5443/v1/wuaiyun-client.json) | [wuaiyun-client.json](manifests/wuaiyun-client.json) |
 
 Shell 脚本目录另有[固定入口](https://domains.52nm.de:5443/go/shell/web)。已部署的神仙云和吾爱云客户端继续使用各自现有的发现入口。启用神仙面板 Agent 双源时，需配置本表 NAS gRPC 清单以及本仓库对应的 Raw URL。
