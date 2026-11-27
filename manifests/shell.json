@@ -1,7 +1,8 @@
 {
   "endpoints": {
-    "web": "https://shell.52nm.de:5443/script-library"
+    "web": "https://shell.52nm.de:5443/script-library",
+    "workbench": "https://shell.52nm.de:5443/"
   },
-  "revision": 1795744049134387,
-  "updated_at": "2026-11-27T01:47:29+00:00"
+  "revision": 1795744599803867,
+  "updated_at": "2026-11-27T01:56:39+00:00"
 }
