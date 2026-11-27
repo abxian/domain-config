@@ -4,7 +4,7 @@
     "https://api.52nm.de:5443"
   ],
   "sub_base": "https://api.52nm.de:5443",
-  "download_base": "https://api.52nm.de:5443",
-  "revision": 1795745097089574,
-  "updated_at": "2026-11-27T02:04:57+00:00"
+  "download_base": "https://sxy.52nm.de:5443",
+  "revision": 1795760925078028,
+  "updated_at": "2026-11-27T06:28:45+00:00"
 }
