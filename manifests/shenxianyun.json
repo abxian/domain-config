@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "api_bases": [
+    "https://sxy-api.52nm.de:5443"
+  ],
+  "sub_base": "https://sxy-api.52nm.de:5443",
+  "download_base": "https://sxy.52nm.de:5443",
+  "revision": 1795743738572376,
+  "updated_at": "2026-11-27T01:42:18+00:00"
+}
