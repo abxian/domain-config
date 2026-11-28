@@ -16,5 +16,7 @@ NAS 发布每个项目的最新清单，并把相同内容同步到本仓库。�
 | NAS CDN 管理 | [固定入口](https://domains.52nm.de:5443/go/nas-cdn/web) | [nas-cdn.json](manifests/nas-cdn.json) |
 | 软件下载 | [四个客户端下载地址](https://domains.52nm.de:5443/v1/public-downloads.json) | [public-downloads.json](manifests/public-downloads.json) |
 | 订阅转换 | [固定入口](https://domains.52nm.de:5443/go/subscription-converter/web) | [subscription-converter.json](manifests/subscription-converter.json) |
+| GPS 管理 | [固定入口](https://domains.52nm.de:5443/go/gps/web) | [gps.json](manifests/gps.json) |
+| NNPS 独立资产面板 | 从 NNPS 管理页的资产详情进入 | [nnps-panel.json](manifests/nnps-panel.json) |
 
 Shell 脚本目录另有[固定入口](https://domains.52nm.de:5443/go/shell/web)。已部署的神仙云和吾爱云客户端继续使用各自现有的发现入口。启用神仙面板 Agent 双源时，需配置本表 NAS gRPC 清单以及本仓库对应的 Raw URL。
