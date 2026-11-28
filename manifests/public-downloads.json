@@ -1,0 +1,10 @@
+{
+  "endpoints": {
+    "shenxianyun-desktop": "https://github.com/abxian/shenxianyun/releases/latest",
+    "shenxianyun-android": "https://github.com/abxian/shenxianyun-android/releases/latest",
+    "wuaiyun-desktop": "https://github.com/abxian/shenxianyun-52nm/releases/latest",
+    "wuaiyun-android": "https://github.com/abxian/shenxianyun-android-52nm/releases/latest"
+  },
+  "revision": 1795832470414386,
+  "updated_at": "2026-11-28T02:21:10+00:00"
+}
