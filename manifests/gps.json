@@ -1,0 +1,7 @@
+{
+  "endpoints": {
+    "web": "https://gps.52nm.de:5443/"
+  },
+  "revision": 1795833994001371,
+  "updated_at": "2026-11-28T02:46:34+00:00"
+}
