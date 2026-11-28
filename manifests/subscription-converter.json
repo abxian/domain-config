@@ -1,0 +1,8 @@
+{
+  "endpoints": {
+    "web": "https://sub.52nm.de:5443/",
+    "api": "https://sub.52nm.de:5443/sub"
+  },
+  "revision": 1795833490174880,
+  "updated_at": "2026-11-28T02:38:10+00:00"
+}
